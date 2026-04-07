@@ -8,10 +8,10 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Employee Experience
-  - Microsoft 365
-  - Learning
   - Insights
+  - Learning
   - Microsoft
+  - Microsoft 365
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-viva/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-03-16'
@@ -20,9 +20,9 @@ apis:
   - aid: microsoft-viva:connections-api
     name: Viva Connections API
     tags:
+      - Adaptive Cards
       - Employee Experience
       - Intranet
-      - Adaptive Cards
     image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/viva/connections/overview-viva-connections
     properties:
@@ -38,8 +38,8 @@ apis:
     name: Viva Learning API
     tags:
       - Learning
-      - Training
       - Microsoft Graph
+      - Training
     image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://graph.microsoft.com/v1.0/
     humanURL: https://learn.microsoft.com/en-us/graph/api/resources/viva-learning-api-overview
@@ -55,8 +55,8 @@ apis:
   - aid: microsoft-viva:insights-api
     name: Viva Insights API
     tags:
-      - Insights
       - Analytics
+      - Insights
       - Workplace Analytics
     image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://graph.microsoft.com/v1.0/
