@@ -70,6 +70,10 @@ apis:
       focus hours, collaboration patterns, and wellbeing metrics to help
       organizations improve employee productivity and work-life balance.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/microsoft
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/microsoft-viva
   - type: Portal
     url: https://www.microsoft365.com/
   - type: Website
