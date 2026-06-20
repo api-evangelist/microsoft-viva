@@ -5,7 +5,7 @@ description: >-
   Teams. It provides APIs for Viva Connections, Viva Learning, and Viva Insights
   to integrate employee experience capabilities into custom applications.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Employee Experience
   - Insights
@@ -23,7 +23,7 @@ apis:
       - Adaptive Cards
       - Employee Experience
       - Intranet
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/viva/connections/overview-viva-connections
     properties:
       - url: https://learn.microsoft.com/en-us/viva/connections/overview-viva-connections
@@ -40,7 +40,7 @@ apis:
       - Learning
       - Microsoft Graph
       - Training
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://graph.microsoft.com/v1.0/
     humanURL: https://learn.microsoft.com/en-us/graph/api/resources/viva-learning-api-overview
     properties:
@@ -58,7 +58,7 @@ apis:
       - Analytics
       - Insights
       - Workplace Analytics
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://graph.microsoft.com/v1.0/
     humanURL: https://learn.microsoft.com/en-us/viva/insights/overview
     properties:
