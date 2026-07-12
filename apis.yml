@@ -70,6 +70,8 @@ apis:
       focus hours, collaboration patterns, and wellbeing metrics to help
       organizations improve employee productivity and work-life balance.
 common:
+  - type: DomainSecurity
+    url: security/microsoft-viva-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/microsoft
   - type: LinkedIn
