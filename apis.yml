@@ -23,6 +23,12 @@ tags:
   - Insights
   - Learning
   - Microsoft
+  - Microsoft-365
+tags_raw:
+  - Employee Experience
+  - Insights
+  - Learning
+  - Microsoft
   - Microsoft 365
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-viva/refs/heads/main/apis.yml
 created: '2024-01-01'
