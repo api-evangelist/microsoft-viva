@@ -41,7 +41,7 @@ tags_raw:
   - Learning
   - Microsoft
   - Microsoft 365
-url: https://raw.githubusercontent.com/api-evangelist/microsoft-viva/refs/heads/main/apis.yml
+url: https://learn.microsoft.com/en-us/viva/
 created: '2024-01-01'
 modified: '2026-04-28'
 specificationVersion: '0.23'
@@ -132,5 +132,5 @@ integrations:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
-x-parent: microsoft
+x-parent: microsoft-365
 x-relationship: product
