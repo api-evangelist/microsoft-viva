@@ -1,4 +1,4 @@
-# Microsoft Viva (microsoft-viva)
+# Microsoft Viva
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,70 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Microsoft Viva provides employee experience APIs for connections, learning, and workplace insights through SharePoint Framework and Microsoft Graph.
+Microsoft Viva is an employee experience platform built on Microsoft 365 and Teams. It provides APIs for Viva Connections, Viva Learning, and Viva Insights to integrate employee experience capabilities into custom applications.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/microsoft-viva/refs/heads/main/apis.yml)
+**Areas:** Employee Experience · Insights · Learning · Microsoft · Microsoft 365
 
-## Tags:
+## Microsoft Viva on APIs.io
 
- - Employee Experience, Learning, Insights, Connections, Microsoft Graph
+Everything profiled for Microsoft Viva is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/microsoft-viva/](https://apis.io/providers/microsoft-viva/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### APIs (3)
 
-- **Created:** 2026-03-13
-- **Modified:** 2026-04-28
+- [Viva Connections API](https://apis.io/apis/microsoft-viva/connections-api/) — Viva Connections provides a personalized employee experience gateway built on SharePoint. Developers can create custom dashboard cards using Adaptive Card…
+- [Viva Learning API](https://apis.io/apis/microsoft-viva/learning-api/) — The Viva Learning API through Microsoft Graph enables integration of third-party learning content providers with Microsoft Viva Learning. Developers can…
+- [Viva Insights API](https://apis.io/apis/microsoft-viva/insights-api/) — Viva Insights provides data-driven insights about work patterns and collaboration habits. The API surfaces analytics about meeting time, focus hours,…
 
-## APIs
+### Published properties
 
-### Viva Connections API
-Viva Connections provides a personalized employee experience gateway with custom dashboard cards using Adaptive Card Extensions.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-**Human URL:** [https://learn.microsoft.com/en-us/viva/connections/overview-viva-connections](https://learn.microsoft.com/en-us/viva/connections/overview-viva-connections)
+#### Security (1)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Employee Experience, Intranet, Adaptive Cards
+- [Microsoft Viva Domain Security](https://apis.io/security/microsoft-viva/microsoft-viva-domain-security/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Documentation](https://learn.microsoft.com/en-us/viva/connections/overview-viva-connections)
+Published plans, tiers and prices.
 
-### Viva Learning API
-The Viva Learning API enables integration of third-party learning content providers with Microsoft Viva Learning.
+- [Microsoft Viva Plans Pricing](https://apis.io/plans/microsoft-viva/microsoft-viva-plans-pricing/)
 
-**Human URL:** [https://learn.microsoft.com/en-us/graph/api/resources/viva-learning-api-overview](https://learn.microsoft.com/en-us/graph/api/resources/viva-learning-api-overview)
+#### Rate limits (1)
 
-#### Tags:
+Published request limits.
 
- - Learning, Training, Microsoft Graph
+- [Microsoft Viva Rate Limits](https://apis.io/rate-limits/microsoft-viva/microsoft-viva-rate-limits/)
 
-#### Properties
+#### FinOps (1)
 
-- [Documentation](https://learn.microsoft.com/en-us/graph/api/resources/viva-learning-api-overview)
+What the API costs to run, by operation.
 
-### Viva Insights API
-Viva Insights provides data-driven insights about work patterns and collaboration habits.
+- [Microsoft Viva Finops](https://apis.io/finops/microsoft-viva/microsoft-viva-finops/)
 
-**Human URL:** [https://learn.microsoft.com/en-us/viva/insights/overview](https://learn.microsoft.com/en-us/viva/insights/overview)
+## Where to find this API
 
-#### Tags:
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
- - Insights, Analytics, Workplace Analytics
-
-#### Properties
-
-- [Documentation](https://learn.microsoft.com/en-us/viva/insights/overview)
-
-## Common Properties
-
-- [Portal](https://www.microsoft365.com/)
+- [Website](https://www.microsoft.com/en-us/microsoft-viva)
 - [Documentation](https://learn.microsoft.com/en-us/viva/)
-- [Terms of Service](https://www.microsoft.com/en-us/legal/terms-of-use)
-- [Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
 - [Support](https://support.microsoft.com/)
+- [Terms of service](https://www.microsoft.com/en-us/legal/terms-of-use)
+- [Privacy policy](https://privacy.microsoft.com/en-us/privacystatement)
+- [GitHub](https://github.com/microsoft)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 18.7** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/microsoft-viva/](https://apis.io/providers/microsoft-viva/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Microsoft Viva: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/microsoft-viva/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
